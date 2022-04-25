@@ -276,14 +276,14 @@ body {
 }
 .skillbox-1 {
   position: absolute;
-  top: 23.5%;
+  top: 28%;
   left: 50%;
   transform: translate(-50%, 50%);
 }
 
 .chart-box {
   position: absolute;
-  top: 290px;
+  top: 330px;
   left: 50%;
   transform: translatex(-50%);
 }
