@@ -23,7 +23,7 @@ body {
 .section-1 {
   background-image: linear-gradient(to left, .fdfbfb, .ebedee);
   width: 1920px;
-  height: 937px;
+  height: 1000px;
 }
 .logo{
   position:fixed;
@@ -257,7 +257,7 @@ body {
 /*섹션4*/
 
 .section-4 {
-  background-image: url(https://cdn.jsdelivr.net/gh/Bsuho/my-portfolio-site/docs/img/bg_2_1.jpg);
+  background-image: url(https://ifh.cc/g/lwJ9Ct.jpg);
   width: 1920px;
   height: 970px;
 }
@@ -283,7 +283,7 @@ body {
 
 .chart-box {
   position: absolute;
-  top: 330px;
+  top:330px;
   left: 50%;
   transform: translatex(-50%);
 }
@@ -933,7 +933,7 @@ html > body .swiper-slide-3:hover::before {
   white-space: nowrap;
   text-align: center;
   margin-top: 220px;
-  font-size: 23px;
+  font-size: 18px;
   font-weight: bold;
 }
 .content-3:hover .content-3_2 {
@@ -1190,7 +1190,7 @@ html > body .swiper-slide-3:hover::before {
   white-space: nowrap;
   text-align: center;
   margin-top: 220px;
-  font-size: 23px;
+  font-size: 18px;
   font-weight: bold;
 }
 .content-6:hover .content-6_2 {
@@ -1205,6 +1205,7 @@ html > body .swiper-slide-3:hover::before {
     transform: scaleX(1);
   }
 }
+
 
 /*섹션 7*/
 
@@ -1290,6 +1291,7 @@ html > body .swiper-slide-3:hover::before {
   width: 250px;
   height: 50px;
   border: 1px solid #777;
+  border-radius: 5px;
   color: black;
   font-family: Arial, Helvetica, sans-serif;
   position: relative;
